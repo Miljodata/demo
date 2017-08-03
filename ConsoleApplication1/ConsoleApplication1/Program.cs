@@ -14,6 +14,8 @@ namespace ConsoleApplication1
 			System.Threading.Thread.Sleep(5000);
 			System.Console.WriteLine("exiting...");
 			System.Console.WriteLine("really!");
+			System.Threading.Thread.Sleep(5000);
+			System.Console.WriteLine("NOW");
 		}
 	}
 }
