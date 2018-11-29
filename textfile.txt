@@ -3,3 +3,4 @@ sfdsd
 sdfsdf
 BBBB
 Foo
+I am a conflict
